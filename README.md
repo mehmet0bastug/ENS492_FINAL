@@ -1,4 +1,4 @@
-# Machine Learning for Protein Mutational Scanning: GFP, SUMO, and GB1
+# Development of a Machine Learning Algorithm to Predict the Mutational Fitness of Proteins
 
 **Graduation Project — Sabancı University**
 
