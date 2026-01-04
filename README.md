@@ -25,7 +25,7 @@ We engineered a hybrid feature set combining geometric, topological, and physica
 * **SASA (Solvent Accessible Surface Area):**
     * Whole protein SASA.
     * Local SASA (e.g., Chromophore for GFP, Chain A for SUMO/GB1).
-    * $\Delta$SASA (Difference between bound/unbound or whole/local states).
+    * DeltaSASA (Difference between bound/unbound or whole/local states).
 * **Graph Theory Metrics:**
     * Constructed protein contact networks (using $C_\alpha$ coordinates).
     * Features: *Average Degree*, *Average Clustering Coefficient*, *Total Graph Length*.
