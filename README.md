@@ -12,8 +12,8 @@ This repository contains the codebase for a machine learning pipeline designed t
 
 We specifically focused on three distinct protein systems:
 1.  **GFP (Green Fluorescent Protein):** Predicting *Median Brightness* based on chromophore dynamics.
-2.  **SUMO (Small Ubiquitin-like Modifier):** Predicting binding affinity/fitness.
-3.  **GB1 (Protein G B1 domain):** Predicting binding affinity/fitness.
+2.  **SUMO :** Predicting binding affinity/fitness.
+3.  **GB1 :** Predicting binding affinity/fitness.
 
 ## 🚀 Methodology
 
