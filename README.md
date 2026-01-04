@@ -2,7 +2,7 @@
 
 **Graduation Project — Sabancı University**
 
-**Authors:** Mehmet Bastug & Bahadır Kaşifoğlu  
+**Authors:** Mehmet Barış Baştuğ & Bahadır Kaşifoğlu  
 **Supervisor:** Prof. Canan Atılgan
 
 ---
@@ -17,7 +17,7 @@ We specifically focused on three distinct protein systems:
 
 ## 🚀 Methodology
 
-Our approach utilizes a **Random Forest Regressor** trained on a diverse set of features extracted from structural data. The pipeline is designed to be robust, handling different datasets with varying feature availability.
+Our approach utilizes both **Random Forest Regressor** and **XGBoost Regressor** trained on a diverse set of features extracted from structural data. The pipeline is designed to be robust, handling different datasets with varying feature availability.
 
 ### Key Features
 We engineered a hybrid feature set combining geometric, topological, and physical descriptors:
